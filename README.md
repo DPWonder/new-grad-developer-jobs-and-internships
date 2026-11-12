@@ -2,7 +2,7 @@
 
 Developer roles for students and new graduates, posted in the last 7 days and read from employers' own career pages. From [RoleWeek](https://roleweek.com/?utm_source=github), a free board of developer roles in the US and Canada posted in the last 7 days, checked daily.
 
-**Updated Nov 12, 2026** (Pacific time): 198 entry-level roles at 146 employers and 254 internships at 155 employers.
+**Updated Nov 12, 2026** (Pacific time): 193 entry-level roles at 142 employers and 255 internships at 151 employers.
 
 - [Entry-level developer jobs](#entry-level-developer-jobs)
 - [Developer internships](#developer-internships)
@@ -15,10 +15,21 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 
 ## Entry-level developer jobs
 
-198 entry-level roles at 146 employers, newest first. [The same list on RoleWeek](https://roleweek.com/entry-level/?utm_source=github).
+193 entry-level roles at 142 employers, newest first. [The same list on RoleWeek](https://roleweek.com/entry-level/?utm_source=github).
 
 | Employer | Role | Location | Posted | Link |
 | --- | --- | --- | --- | --- |
+| University of Miami | Programmer 1, IDSC Future Realities | Coral Gables, FL | Nov 12 | [View](https://roleweek.com/job/programmer-1-idsc-future-realities-university-of-miami-miami-9410c01d/?utm_source=github) |
+| Hewlett Packard Enterprise | Systems/Software Engineer I | Sunnyvale, CA | Nov 12 | [View](https://roleweek.com/job/systems-software-engineer-i-hewlett-packard-enterprise-san-francisco-bay-area-bf3a073f/?utm_source=github) |
+| Boeing | Entry Flight Software Engineer - Vehicle Management Systems | El Segundo, CA | Nov 12 | [View](https://roleweek.com/job/entry-flight-software-engineer-vehicle-management-systems-boeing-los-angeles-44c76099/?utm_source=github) |
+| RTX | Software Engineer I - Air Traffic Solutions | Marlborough, MA | Nov 12 | [View](https://roleweek.com/job/software-engineer-i-air-traffic-solutions-onsite-rtx-boston-10eea27d/?utm_source=github) |
+| CDK | Associate Database Engineer | Austin, TX | Nov 12 | [View](https://roleweek.com/job/associate-database-engineer-cdk-austin-aad56f90/?utm_source=github) |
+| Truist | Data Scientist I | Atlanta, GA | Nov 12 | [View](https://roleweek.com/job/data-scientist-i-truist-atlanta-1f003990/?utm_source=github) |
+| Micron | New College Grad - Software Engineer | Boise, ID | Nov 12 | [View](https://roleweek.com/job/new-college-grad-software-engineer-micron-boise-36996ed4/?utm_source=github) |
+| Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | Melbourne, FL | Nov 12 | [View](https://roleweek.com/job/2027-associate-software-engineer-software-engineer-northrop-grumman-elsewhere-1a8d1181/?utm_source=github) |
+| Agile Defense | Cyber Security Specialist – Associate (Cybersecurity) | Fort Huachuca, AZ | Nov 12 | [View](https://roleweek.com/job/cyber-security-specialist-associate-cybersecurity-agile-defense-elsewhere-d3c2e701/?utm_source=github) |
+| SAIC | Data Scientist Associate | Upper Marlboro, MD | Nov 12 | [View](https://roleweek.com/job/data-scientist-associate-saic-washington-dc-10447852/?utm_source=github) |
+| SpaceX | New Graduate Engineer, Aerospace Software (Starfall) | Hawthorne, CA | Nov 12 | [View](https://roleweek.com/job/new-graduate-engineer-aerospace-software-starfall-spacex-los-angeles-3e6ecc79/?utm_source=github) |
 | Viasat | Associate Software Engineer, Early Career | Carlsbad, CA | Nov 12 | [View](https://roleweek.com/job/associate-software-engineer-early-career-viasat-san-diego-683b1d00/?utm_source=github) |
 | Bask Health | Frontend Engineer, New Grad | US (remote) | Nov 12 | [View](https://roleweek.com/job/frontend-engineer-new-grad-bask-health-remote-1de43ab1/?utm_source=github) |
 | THOR Solutions | System Administrator, Junior | San Diego, CA | Nov 12 | [View](https://roleweek.com/job/system-administrator-junior-thor-solutions-san-diego-a55767d4/?utm_source=github) |
@@ -33,7 +44,7 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | SharkNinja | Forward Deployed Engineer - Entry Level | Needham, MA | Nov 11 | [View](https://roleweek.com/job/forward-deployed-engineer-entry-level-sharkninja-boston-971f7440/?utm_source=github) |
 | Lockheed Martin | A/AI Software & Systems Architect (junior career) | Sunnyvale, Palo Alto +5 (remote) | Nov 11 | [View](https://roleweek.com/job/a-ai-software-and-systems-architect-junior-career-lockheed-martin-san-francisco-bay-area-f3dc35eb/?utm_source=github) |
 | L3Harris Technologies | Associate, Sys Admin / Cyber Infrastructure Systems Engineer | Palm Bay, FL | Nov 11 | [View](https://roleweek.com/job/associate-sys-admin-cyber-infrastructure-systems-engineer-l3harris-technologies-elsewhere-a8f5c115/?utm_source=github) |
-| Boeing | Entry-Level Missions Systems Software Engineer - Embedded | Berkeley, MO | Nov 11 | [View](https://roleweek.com/job/entry-level-missions-systems-software-engineer-embedded-boeing-st-louis-d8ce01c7/?utm_source=github) |
+| Adaption | Developer Community Associate (6 Month Contract) | San Francisco, New York (remote) | Nov 11 | [View](https://roleweek.com/job/developer-community-associate-6-month-contract-adaption-san-francisco-bay-area-2de1f25e/?utm_source=github) |
 | Northrop Grumman | 2027 Associate Software Engineer - Pathways | Boulder, Colorado Springs | Nov 11 | [View](https://roleweek.com/job/2027-associate-software-engineer-pathways-boulder-co-northrop-grumman-denver-boulder-c8107216/?utm_source=github) |
 | Adobe | 2027 University Graduate - Data Scientist | San Jose | Nov 11 | [View](https://roleweek.com/job/2027-university-graduate-data-scientist-adobe-san-francisco-bay-area-7a354f08/?utm_source=github) |
 | GlobalFoundries | AI Processor Hardware/Software Integration Engineer (2027 New College Graduate) | Richardson, TX | Nov 11 | [View](https://roleweek.com/job/ai-processor-hardware-software-integration-engineer-2027-globalfoundries-dallas-fort-worth-0ef6ce32/?utm_source=github) |
@@ -41,41 +52,37 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Jamf | Associate Software Engineer | US (remote) | Nov 11 | [View](https://roleweek.com/job/associate-software-engineer-jamf-remote-b874cda3/?utm_source=github) |
 | CDK | Associate Software Engineer | Austin, TX | Nov 11 | [View](https://roleweek.com/job/associate-software-engineer-cdk-austin-f6b7b764/?utm_source=github) |
 | Lockheed Martin | Software Engineer Asc - Early Career | Marietta, GA | Nov 11 | [View](https://roleweek.com/job/software-engineer-asc-early-career-lockheed-martin-washington-dc-9768d950/?utm_source=github) |
-| The Hartford | Associate Software Engineer | Hartford, CT | Nov 11 | [View](https://roleweek.com/job/associate-software-engineer-the-hartford-elsewhere-f0369c80/?utm_source=github) |
 | RTX | Associate Software Engineer I – CDS / Engine System Software | East Hartford, CT | Nov 11 | [View](https://roleweek.com/job/associate-software-engineer-i-cds-engine-system-software-rtx-elsewhere-50bf354d/?utm_source=github) |
-| Echo Global Logistics | Associate Software Support Engineer | Chicago, IL | Nov 11 | [View](https://roleweek.com/job/associate-software-support-engineer-echo-global-logistics-chicago-9403706f/?utm_source=github) |
 | Winland Foods | Customer Data Management Associate Scientist | Green Bay, WI | Nov 11 | [View](https://roleweek.com/job/customer-data-management-associate-scientist-winland-foods-elsewhere-2b6f8e27/?utm_source=github) |
 | Johns Hopkins University | Data Engineer I (Epidemiology) | Baltimore, MD | Nov 11 | [View](https://roleweek.com/job/data-engineer-i-epidemiology-johns-hopkins-university-washington-dc-c1a72845/?utm_source=github) |
 | Shield AI | Engineer II, Software - Autonomous Pilot Integration - New Grad | Washington, DC | Nov 11 | [View](https://roleweek.com/job/engineer-ii-software-autonomous-pilot-integration-new-grad-shield-ai-washington-dc-c0b3d4c6/?utm_source=github) |
-| Advanced Energy | Firmware Engineer I, C++ | Redwood City, CA | Nov 11 | [View](https://roleweek.com/job/firmware-engineer-i-c-plus-plus-advanced-energy-san-francisco-bay-area-606f8f58/?utm_source=github) |
 | The Aerospace Corporation | Jr. Data Solutions and Software Engineer | El Segundo, CA | Nov 11 | [View](https://roleweek.com/job/jr-data-solutions-and-software-engineer-the-aerospace-corporation-los-angeles-5b6f7175/?utm_source=github) |
-| Jamf | Associate Software Engineer (Full Stack) | US (remote) | Nov 11 | [View](https://roleweek.com/job/associate-software-engineer-full-stack-jamf-remote-5ae0f9f4/?utm_source=github) |
 | Smyrna Ready Mix | Junior DevOps Engineer | Murfreesboro, TN | Nov 11 | [View](https://roleweek.com/job/junior-devops-engineer-murfreesboro-tn-smyrna-ready-mix-nashville-7764fb59/?utm_source=github) |
 | Cleary Gottlieb Steen & Hamilton | Junior Legal AI Engineer | New York, NY | Nov 11 | [View](https://roleweek.com/job/junior-legal-ai-engineer-cleary-gottlieb-steen-and-hamilton-new-york-f31c4139/?utm_source=github) |
 | Rectangle Health | Junior Power BI Developer | White Plains, New York | Nov 11 | [View](https://roleweek.com/job/junior-power-bi-developer-rectangle-health-new-york-4117df8e/?utm_source=github) |
-| University of Texas at Austin Staff | Linux Security Engineering Scientist Associate | Pickle Research Campus | Nov 11 | [View](https://roleweek.com/job/linux-security-engineering-scientist-associate-university-of-texas-at-austin-staff-elsewhere-2c9b86cb/?utm_source=github) |
+| Jamf | Associate Software Engineer (Full Stack) | US (remote) | Nov 11 | [View](https://roleweek.com/job/associate-software-engineer-full-stack-jamf-remote-5ae0f9f4/?utm_source=github) |
+| The University of Texas at Austin | Linux Security Engineering Scientist Associate | Austin, TX | Nov 11 | [View](https://roleweek.com/job/linux-security-engineering-scientist-associate-university-of-texas-at-austin-staff-elsewhere-2c9b86cb/?utm_source=github) |
 | Frontier Medicines | Machine Learning Scientist I - Generative & Agentic AI for Drug Discovery | South San Francisco, CA | Nov 11 | [View](https://roleweek.com/job/machine-learning-scientist-i-generative-and-agentic-ai-for-frontier-medicines-san-francisco-bay-area-65fce7e6/?utm_source=github) |
-| Chukmedia | Resident - Data Analytics | New York, NY | Nov 11 | [View](https://roleweek.com/job/resident-data-analytics-chukmedia-new-york-d6166dfd/?utm_source=github) |
+| ChukMedia | Resident - Data Analytics | New York, NY | Nov 11 | [View](https://roleweek.com/job/resident-data-analytics-chukmedia-new-york-d6166dfd/?utm_source=github) |
 | Edmentum | Software Engineer I | Bloomington, MN | Nov 11 | [View](https://roleweek.com/job/software-engineer-i-edmentum-minneapolis-dd1c3ffc/?utm_source=github) |
 | Overview Vinik Sports Group | Software Engineer I | Tampa | Nov 11 | [View](https://roleweek.com/job/software-engineer-i-overview-vinik-sports-group-tampa-1b226652/?utm_source=github) |
+| Boeing | Entry-Level Missions Systems Software Engineer - Embedded | Berkeley, MO | Nov 11 | [View](https://roleweek.com/job/entry-level-missions-systems-software-engineer-embedded-boeing-st-louis-d8ce01c7/?utm_source=github) |
+| Bask Health | Backend Engineer, New Grad | US (remote) | Nov 11 | [View](https://roleweek.com/job/backend-engineer-new-grad-bask-health-remote-51794e08/?utm_source=github) |
+| Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad | US | Nov 11 | [View](https://roleweek.com/job/engineer-ii-software-perception-sd-dc-bos-new-grad-shield-ai-elsewhere-9d99c5a1/?utm_source=github) |
 | RTX | Software Engineer I (CMA-P1-1) | Ft Wayne, IN | Nov 11 | [View](https://roleweek.com/job/software-engineer-i-cma-p1-1-rtx-elsewhere-055f470b/?utm_source=github) |
 | Tandem Diabetes Care | Software Test Engineer I (Systems Test) | High Bluff, CA | Nov 11 | [View](https://roleweek.com/job/software-test-engineer-i-systems-test-tandem-diabetes-care-elsewhere-3c0a6bc4/?utm_source=github) |
 | Mutual of Omaha Mortgage | Junior System Administrator | San Diego, CA | Nov 11 | [View](https://roleweek.com/job/junior-system-administrator-mutual-of-omaha-mortgage-san-diego-3c3f6a47/?utm_source=github) |
+| The University of Texas at Austin | System Software Engineering Scientist Associate | Austin, TX | Nov 11 | [View](https://roleweek.com/job/system-software-engineering-scientist-associate-university-of-texas-at-austin-staff-elsewhere-b0acd9de/?utm_source=github) |
 | Amazon | IT Support Engineer I, Amazon OTS | Waco, TX | Nov 11 | [View](https://roleweek.com/job/it-support-engineer-i-amazon-ots-amazon-elsewhere-71dd621a/?utm_source=github) |
-| DXC Technology | Junior Network Engineer Winston-Salem NC | Elsewhere in the US & Canada | Nov 11 | [View](https://roleweek.com/job/junior-network-engineer-winston-salem-nc-dxc-technology-elsewhere-570caef8/?utm_source=github) |
 | Florida Blue | Associate IT Analyst | Jacksonville, FL | Nov 11 | [View](https://roleweek.com/job/associate-it-analyst-jacksonville-fl-florida-blue-elsewhere-e478bfec/?utm_source=github) |
-| University of Texas at Austin Staff | System Software Engineering Scientist Associate | Pickle Research Campus | Nov 11 | [View](https://roleweek.com/job/system-software-engineering-scientist-associate-university-of-texas-at-austin-staff-elsewhere-b0acd9de/?utm_source=github) |
 | AEM | Jr. Systems Administrator | Hayward, CA | Nov 11 | [View](https://roleweek.com/job/jr-systems-administrator-aem-san-francisco-bay-area-705bd794/?utm_source=github) |
-| Bask Health | Backend Engineer, New Grad | US (remote) | Nov 11 | [View](https://roleweek.com/job/backend-engineer-new-grad-bask-health-remote-51794e08/?utm_source=github) |
-| Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad | US | Nov 11 | [View](https://roleweek.com/job/engineer-ii-software-perception-sd-dc-bos-new-grad-shield-ai-elsewhere-9d99c5a1/?utm_source=github) |
 | Northrop Grumman | 2026 Software Development Analyst 1/2 - Pathways Program | Roy, UT | Nov 11 | [View](https://roleweek.com/job/2026-software-development-analyst-1-2-pathways-program-roy-northrop-grumman-salt-lake-city-63d6a414/?utm_source=github) |
-| SPBS | Junior Systems Analyst | Flower Mound, TX | Nov 11 | [View](https://roleweek.com/job/junior-systems-analyst-spbs-dallas-fort-worth-64b96f22/?utm_source=github) |
 | Blue Origin | Lunar Systems Administrator - Level 1 | Space Coast, FL | Nov 11 | [View](https://roleweek.com/job/lunar-systems-administrator-level-1-blue-origin-elsewhere-895ad72a/?utm_source=github) |
-| Provo | Systems Analyst I | City | Nov 11 | [View](https://roleweek.com/job/systems-analyst-i-provo-salt-lake-city-b9b9c67d/?utm_source=github) |
-| University of Texas at Austin Staff | Linux Network Engineering Scientist Associate | Pickle Research Campus | Nov 11 | [View](https://roleweek.com/job/linux-network-engineering-scientist-associate-university-of-texas-at-austin-staff-elsewhere-2c892d1e/?utm_source=github) |
 | Bask Health | Junior Backend Engineer | US (remote) | Nov 11 | [View](https://roleweek.com/job/junior-backend-engineer-bask-health-remote-1cb3c561/?utm_source=github) |
-| University of Texas at Austin Staff | Linux Systems Engineering Scientist Associate | Pickle Research Campus | Nov 11 | [View](https://roleweek.com/job/linux-systems-engineering-scientist-associate-university-of-texas-at-austin-staff-elsewhere-3b20380b/?utm_source=github) |
+| Provo | Systems Analyst I | City | Nov 11 | [View](https://roleweek.com/job/systems-analyst-i-provo-salt-lake-city-b9b9c67d/?utm_source=github) |
+| The University of Texas at Austin | Linux Network Engineering Scientist Associate | Austin, TX | Nov 11 | [View](https://roleweek.com/job/linux-network-engineering-scientist-associate-university-of-texas-at-austin-staff-elsewhere-2c892d1e/?utm_source=github) |
 | Bask Health | Junior Backend Engineer, Platform | US (remote) | Nov 11 | [View](https://roleweek.com/job/junior-backend-engineer-platform-bask-health-remote-bf332243/?utm_source=github) |
+| The University of Texas at Austin | Linux Systems Engineering Scientist Associate | Austin, TX | Nov 11 | [View](https://roleweek.com/job/linux-systems-engineering-scientist-associate-university-of-texas-at-austin-staff-elsewhere-3b20380b/?utm_source=github) |
 | Bask Health | Junior Full Stack Engineer | US (remote) | Nov 11 | [View](https://roleweek.com/job/junior-full-stack-engineer-bask-health-remote-f9910f5c/?utm_source=github) |
 | Bask Health | Junior Full Stack Engineer, Merchant Tools | US (remote) | Nov 11 | [View](https://roleweek.com/job/junior-full-stack-engineer-merchant-tools-bask-health-remote-4d4fb95e/?utm_source=github) |
 | Bask Health | Junior Product Engineer, Interactive Experiences | US (remote) | Nov 11 | [View](https://roleweek.com/job/junior-product-engineer-interactive-experiences-bask-health-remote-51dd849b/?utm_source=github) |
@@ -86,7 +93,6 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Cox | Software Engineer I | Atlanta, GA | Nov 10 | [View](https://roleweek.com/job/software-engineer-i-cox-atlanta-88b28679/?utm_source=github) |
 | RTX | Software Engineer I | Cedar Rapids, IA | Nov 10 | [View](https://roleweek.com/job/software-engineer-i-onsite-rtx-elsewhere-9b4e8c7e/?utm_source=github) |
 | DTCC | DevSecOps Engineering Associate | Dallas, Tampa | Nov 10 | [View](https://roleweek.com/job/devsecops-engineering-associate-dtcc-dallas-fort-worth-3ce849b1/?utm_source=github) |
-| Pathward, N.A. | Data Scientist I | Remote | Nov 10 | [View](https://roleweek.com/job/data-scientist-i-pathward-n-a-remote-45daa951/?utm_source=github) |
 | Anduril | 2027 New Grad Information Security Engineer | Costa Mesa, CA | Nov 10 | [View](https://roleweek.com/job/2027-new-grad-information-security-engineer-anduril-los-angeles-e5a309c8/?utm_source=github) |
 | SAIC | Junior Penetration Tester | US state: TX (remote) | Nov 10 | [View](https://roleweek.com/job/junior-penetration-tester-saic-remote-640673a0/?utm_source=github) |
 | Vizient | Associate Software Engineer | Irving, TX | Nov 10 | [View](https://roleweek.com/job/associate-software-engineer-hybrid-vizient-dallas-fort-worth-2084a458/?utm_source=github) |
@@ -103,7 +109,6 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Veradigm | Associate Security Engineer | Raleigh, NC | Nov 10 | [View](https://roleweek.com/job/associate-security-engineer-veradigm-raleigh-durham-8d5982c6/?utm_source=github) |
 | L3Harris Technologies | Associate, Embedded Software Developer (Waterdown, CAN) | Waterdown, ON | Nov 10 | [View](https://roleweek.com/job/associate-embedded-software-developer-waterdown-can-l3harris-technologies-elsewhere-d85bc399/?utm_source=github) |
 | Amazon | Applied Scientist I, Tablet Product Software | Seattle, WA | Nov 10 | [View](https://roleweek.com/job/applied-scientist-i-tablet-product-software-amazon-seattle-d9e25b64/?utm_source=github) |
-| Adaption | Developer Community Associate (6 Month Contract) | San Francisco, New York (remote) | Nov 10 | [View](https://roleweek.com/job/developer-community-associate-6-month-contract-adaption-san-francisco-bay-area-2de1f25e/?utm_source=github) |
 | Amentum | Jr. Data Engineer | Springfield, VA | Nov 10 | [View](https://roleweek.com/job/jr-data-engineer-amentum-washington-dc-822591ad/?utm_source=github) |
 | MANTECH | Junior ServiceNow Developer | US states: CA, MD (remote) | Nov 10 | [View](https://roleweek.com/job/junior-servicenow-developer-mantech-remote-af559811/?utm_source=github) |
 | Cook Group | Software Engineer 1, Full-Stack | Bloomington, West Lafayette +1 | Nov 10 | [View](https://roleweek.com/job/software-engineer-1-full-stack-cook-group-elsewhere-2d454294/?utm_source=github) |
@@ -112,8 +117,8 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | TSYS | Information Security Analyst I | Columbus, GA | Nov 10 | [View](https://roleweek.com/job/information-security-analyst-i-tsys-elsewhere-236cfd84/?utm_source=github) |
 | DXC Technology | Analyst I Network Technician | Jupiter, FL | Nov 10 | [View](https://roleweek.com/job/analyst-i-network-technician-jupiter-fl-dxc-technology-elsewhere-455231a5/?utm_source=github) |
 | Northrop Grumman | 2026 Associate Computer Systems Analyst - Linux - Pathways Program | Melbourne, FL | Nov 10 | [View](https://roleweek.com/job/2026-associate-computer-systems-analyst-linux-pathways-northrop-grumman-elsewhere-1ab10e97/?utm_source=github) |
-| Amazon | Software Development Engineer I, Inference models optimization, AWS Neuron Inference | Cupertino, CA | Nov 10 | [View](https://roleweek.com/job/software-development-engineer-i-inference-models-amazon-san-francisco-bay-area-556adb18/?utm_source=github) |
 | Peraton | Unified Communications Associate | Washington, DC | Nov 10 | [View](https://roleweek.com/job/unified-communications-associate-peraton-washington-dc-e95dd895/?utm_source=github) |
+| Amazon | Software Development Engineer I, Inference models optimization, AWS Neuron Inference | Cupertino, CA | Nov 10 | [View](https://roleweek.com/job/software-development-engineer-i-inference-models-amazon-san-francisco-bay-area-556adb18/?utm_source=github) |
 | Amentum | Cybersecurity Systems Analyst (Associate) | Tampa, FL | Nov 10 | [View](https://roleweek.com/job/cybersecurity-systems-analyst-associate-amentum-tampa-8a1de367/?utm_source=github) |
 | PSEG Long Island | Associate Network Engineer | Bethpage, NY | Nov 10 | [View](https://roleweek.com/job/associate-network-engineer-pseg-long-island-new-york-421d5047/?utm_source=github) |
 | Jackson | Cyber Posture & Vulnerability Mgmt Analyst I | Lansing, MI | Nov 10 | [View](https://roleweek.com/job/cyber-posture-and-vulnerability-mgmt-analyst-i-jackson-elsewhere-9abd49aa/?utm_source=github) |
@@ -129,12 +134,11 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | WHOOP | Software Engineer I (Backend, Growth) | Boston, MA | Nov 9 | [View](https://roleweek.com/job/software-engineer-i-backend-growth-whoop-boston-41d2864b/?utm_source=github) |
 | Belay Technologies | Junior Software Engineer | Columbia, Fort Meade | Nov 9 | [View](https://roleweek.com/job/junior-software-engineer-belay-technologies-washington-dc-8e397c69/?utm_source=github) |
 | AnaVation | Junior Mobile Device RE and Software Engineer – Hybrid! | Lorton, VA | Nov 9 | [View](https://roleweek.com/job/junior-mobile-device-re-and-software-engineer-hybrid-anavation-washington-dc-5d782efc/?utm_source=github) |
-| Rocket Lab | Software Engineer I | Pasadena, CA | Nov 9 | [View](https://roleweek.com/job/software-engineer-i-rocket-lab-los-angeles-2747df8e/?utm_source=github) |
 | Coinbase | Software Engineer-1, Money Movement | US (remote) | Nov 9 | [View](https://roleweek.com/job/software-engineer-1-coinbase-remote-c85df99a/?utm_source=github) |
 | Quo | Junior Fullstack Engineer | San Francisco, New York +2 (remote) | Nov 9 | [View](https://roleweek.com/job/junior-fullstack-engineer-quo-san-francisco-bay-area-92cbcfb8/?utm_source=github) |
-| Amazon | Data Scientist I, NEST | Bellevue, WA | Nov 9 | [View](https://roleweek.com/job/data-scientist-i-nest-amazon-seattle-09f1db0f/?utm_source=github) |
 | Illumia | Data Management Associate | Alpharetta, Scottsdale | Nov 9 | [View](https://roleweek.com/job/data-management-associate-illumia-atlanta-28288bc4/?utm_source=github) |
 | CIBC | Associate AI Scientist, Technology Leadership Advancement Program (TLAP) | Toronto, ON | Nov 9 | [View](https://roleweek.com/job/associate-ai-scientist-technology-leadership-advancement-cibc-toronto-0f180f40/?utm_source=github) |
+| Amazon | Data Scientist I, NEST | Bellevue, WA | Nov 9 | [View](https://roleweek.com/job/data-scientist-i-nest-amazon-seattle-09f1db0f/?utm_source=github) |
 | AERMOR | Junior Cybersecurity Specialist | Panama City, FL | Nov 9 | [View](https://roleweek.com/job/junior-cybersecurity-specialist-aermor-elsewhere-f87c09d0/?utm_source=github) |
 | Southern Company | Documentum Developer, Jr | Birmingham, AL | Nov 9 | [View](https://roleweek.com/job/documentum-developer-jr-southern-company-elsewhere-504ab52a/?utm_source=github) |
 | Lockheed Martin | Software Engineer - Early Career | Fort Worth, Highlands Ranch +2 | Nov 9 | [View](https://roleweek.com/job/software-engineer-early-career-lockheed-martin-philadelphia-743bd0b6/?utm_source=github) |
@@ -142,14 +146,12 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | EQT | AI Engineer I/II/III | Remote | Nov 9 | [View](https://roleweek.com/job/ai-engineer-i-ii-iii-eqt-remote-db38bfa9/?utm_source=github) |
 | CNAS | AI Policy Associate/AI Policy Researcher | Washington, DC | Nov 9 | [View](https://roleweek.com/job/ai-policy-associate-ai-policy-researcher-cnas-washington-dc-b89d60a4/?utm_source=github) |
 | Deloitte | Applied AI Site Reliability Engineer I (PxE A&A) | Dallas, Tampa | Nov 9 | [View](https://roleweek.com/job/applied-ai-site-reliability-engineer-i-pxe-a-and-a-deloitte-dallas-fort-worth-518fb463/?utm_source=github) |
-| Visa | Associate Data Engineer | Foster City, CA | Nov 9 | [View](https://roleweek.com/job/associate-data-engineer-visa-san-francisco-bay-area-83322b0c/?utm_source=github) |
-| Old Republic Title | Associate Developer - C#/.NET | Orlando | Nov 9 | [View](https://roleweek.com/job/associate-developer-c-sharp-net-old-republic-title-elsewhere-85a5bf11/?utm_source=github) |
 | Aresmgmt | Associate, Data Platform Engineering | New York, NY | Nov 9 | [View](https://roleweek.com/job/associate-data-platform-engineering-aresmgmt-new-york-cace6573/?utm_source=github) |
 | Blackstone | Blackstone Technology & Innovations - Data Engineering & Visualization - Associate | New York | Nov 9 | [View](https://roleweek.com/job/blackstone-technology-and-innovations-data-engineering-and-blackstone-new-york-95b79fe9/?utm_source=github) |
 | Corelation | Core Developer I (Card Squad) | San Diego, CA (remote) | Nov 9 | [View](https://roleweek.com/job/core-developer-i-card-squad-corelation-san-diego-796cb325/?utm_source=github) |
-| Lockheed Martin | Data Scientist Asc - Early Career | Fort Worth, Marietta | Nov 9 | [View](https://roleweek.com/job/data-scientist-asc-early-career-lockheed-martin-dallas-fort-worth-99503548/?utm_source=github) |
 | RTX | Embedded Security Software Engineer I | Goleta, CA | Nov 9 | [View](https://roleweek.com/job/embedded-security-software-engineer-i-onsite-rtx-elsewhere-764a90dd/?utm_source=github) |
 | Ajaia | Junior AI Engineer | New York (remote) | Nov 9 | [View](https://roleweek.com/job/junior-ai-engineer-ajaia-new-york-7371c924/?utm_source=github) |
+| Lockheed Martin | Data Scientist Asc - Early Career | Fort Worth, Marietta | Nov 9 | [View](https://roleweek.com/job/data-scientist-asc-early-career-lockheed-martin-dallas-fort-worth-99503548/?utm_source=github) |
 | Command Post Technologies | Junior Information Security Systems Engineer (ISSE) | Orlando, FL | Nov 9 | [View](https://roleweek.com/job/junior-information-security-systems-engineer-isse-command-post-technologies-elsewhere-11921c3e/?utm_source=github) |
 | Credence | Junior SAP ABAP Developer | McLean, VA | Nov 9 | [View](https://roleweek.com/job/junior-sap-abap-developer-credence-washington-dc-5daff996/?utm_source=github) |
 | Esri | Product Engineer I - Survey123 | Redlands, CA | Nov 9 | [View](https://roleweek.com/job/product-engineer-i-survey123-esri-elsewhere-d32d8418/?utm_source=github) |
@@ -158,15 +160,15 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Planview | Software Engineer I | Austin, TX | Nov 9 | [View](https://roleweek.com/job/software-engineer-i-planview-austin-34842270/?utm_source=github) |
 | L3Harris Technologies | Specialist, Software Engineer 1 | Greenville, TX | Nov 9 | [View](https://roleweek.com/job/specialist-software-engineer-1-l3harris-technologies-elsewhere-faf35671/?utm_source=github) |
 | State of North Carolina | Applications Systems Analyst I | Wake County, NC | Nov 9 | [View](https://roleweek.com/job/applications-systems-analyst-i-state-of-north-carolina-raleigh-durham-2a47c9a4/?utm_source=github) |
-| Lockheed Martin | Linux Infrastructure Engineer - Early Career | Moorestown, NJ | Nov 9 | [View](https://roleweek.com/job/linux-infrastructure-engineer-early-career-lockheed-martin-philadelphia-631b1dc7/?utm_source=github) |
 | RTX | Embedded Software Engineer I | Goleta, CA | Nov 9 | [View](https://roleweek.com/job/embedded-software-engineer-i-hybrid-aguadilla-pr-rtx-elsewhere-7392cfd2/?utm_source=github) |
 | UAMS | Associate Network Engineer | Little Rock | Nov 9 | [View](https://roleweek.com/job/associate-network-engineer-uams-elsewhere-325cc480/?utm_source=github) |
+| Lockheed Martin | Linux Infrastructure Engineer - Early Career | Moorestown, NJ | Nov 9 | [View](https://roleweek.com/job/linux-infrastructure-engineer-early-career-lockheed-martin-philadelphia-631b1dc7/?utm_source=github) |
 | Volaris Group | Junior System Administrator | US | Nov 9 | [View](https://roleweek.com/job/junior-system-administrator-volaris-group-elsewhere-f9223981/?utm_source=github) |
 | Aretum | Junior Systems Analyst - Contingent | McLean, VA (remote) | Nov 9 | [View](https://roleweek.com/job/junior-systems-analyst-contingent-aretum-washington-dc-4418186b/?utm_source=github) |
 | Reliance Test & Technology | Network Systems Administrator, Junior | Patuxent River, MD | Nov 9 | [View](https://roleweek.com/job/network-systems-administrator-junior-reliance-test-and-technology-elsewhere-483f1be9/?utm_source=github) |
 | State of Indiana | Systems Administrator Associate | Indianapolis, IN | Nov 9 | [View](https://roleweek.com/job/systems-administrator-associate-state-of-indiana-elsewhere-39c27aa6/?utm_source=github) |
-| Lockheed Martin | Operations AI Engineer - Early Career | Fort Worth, Palmdale | Nov 9 | [View](https://roleweek.com/job/operations-ai-engineer-early-career-lockheed-martin-dallas-fort-worth-8e133f6c/?utm_source=github) |
 | RTX | Jr. SAP Batch Administrator | Richardson, Charlotte +2 | Nov 9 | [View](https://roleweek.com/job/jr-sap-batch-administrator-hybrid-rtx-dallas-fort-worth-fda949fd/?utm_source=github) |
+| Lockheed Martin | Operations AI Engineer - Early Career | Fort Worth, Palmdale | Nov 9 | [View](https://roleweek.com/job/operations-ai-engineer-early-career-lockheed-martin-dallas-fort-worth-8e133f6c/?utm_source=github) |
 | Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad | Washington, DC | Nov 8 | [View](https://roleweek.com/job/engineer-i-software-autonomous-pilot-integration-new-grad-shield-ai-washington-dc-03ae4245/?utm_source=github) |
 | Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad | US | Nov 8 | [View](https://roleweek.com/job/engineer-i-software-autonomy-capabilities-new-grad-shield-ai-elsewhere-afb0b3e8/?utm_source=github) |
 | Shield AI | Engineer I, Software - Perception - New Grad | Washington, DC | Nov 8 | [View](https://roleweek.com/job/engineer-i-software-perception-new-grad-shield-ai-washington-dc-63677406/?utm_source=github) |
@@ -177,7 +179,6 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Samsara | Security Operations Engineer I | US, Pacific time (remote) | Nov 6 | [View](https://roleweek.com/job/security-operations-engineer-i-samsara-remote-189db3db/?utm_source=github) |
 | Hootsuite | Junior Software Developer | Toronto, Vancouver | Nov 6 | [View](https://roleweek.com/job/junior-software-developer-hootsuite-toronto-650983c8/?utm_source=github) |
 | ASM | Software Engineer - Early Career | Phoenix, AZ | Nov 6 | [View](https://roleweek.com/job/software-engineer-early-career-asm-phoenix-752eb66c/?utm_source=github) |
-| Random Bit | Junior Enterprise Architect | Remote | Nov 6 | [View](https://roleweek.com/job/junior-enterprise-architect-random-bit-atlanta-7d3f1aa4/?utm_source=github) |
 | QualityAI | #24251 - Junior QA Engineer | Santa Clara, CA | Nov 6 | [View](https://roleweek.com/job/sharp-24251-junior-qa-engineer-qualityai-san-francisco-bay-area-a9b5c642/?utm_source=github) |
 | Valsoft | AI Engineer I | Saint-Laurent, QC | Nov 6 | [View](https://roleweek.com/job/ai-engineer-i-valsoft-montreal-555f451f/?utm_source=github) |
 | New York Life | Associate - Full-Stack Software Developer | New York, NY | Nov 6 | [View](https://roleweek.com/job/associate-full-stack-software-developer-new-york-life-new-york-4a6b7a30/?utm_source=github) |
@@ -197,7 +198,6 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Jorie AI | Software Engineer I | Oak Brook, IL (remote) | Nov 6 | [View](https://roleweek.com/job/software-engineer-i-jorie-ai-chicago-9261ce03/?utm_source=github) |
 | Abbott | Software Quality Engineer I | Sylmar, CA | Nov 6 | [View](https://roleweek.com/job/software-quality-engineer-i-abbott-los-angeles-ca310e54/?utm_source=github) |
 | LivaNova | Software Test Engineer I | Houston, TX | Nov 6 | [View](https://roleweek.com/job/software-test-engineer-i-livanova-houston-d4c97b0b/?utm_source=github) |
-| L3Harris Technologies | Specialist, Software Engineering 1 1 | Carlsbad, CA | Nov 6 | [View](https://roleweek.com/job/specialist-software-engineering-1-1-l3harris-technologies-salt-lake-city-3e3b2df1/?utm_source=github) |
 | ProSync | System OR Software Engineer I | Annapolis Junction, MD | Nov 6 | [View](https://roleweek.com/job/system-or-software-engineer-i-prosync-washington-dc-c221fea8/?utm_source=github) |
 | NETGEAR | Associate Business Systems Analyst | San Jose, CA | Nov 6 | [View](https://roleweek.com/job/associate-business-systems-analyst-netgear-san-francisco-bay-area-a53e5aa9/?utm_source=github) |
 | Mountain Pacific | IT Systems Administrator I | Helena, MT | Nov 6 | [View](https://roleweek.com/job/it-systems-administrator-i-mountain-pacific-elsewhere-1da2dfcb/?utm_source=github) |
@@ -212,20 +212,28 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Wake County Public School System | Systems Administrator 1 | Cary, NC (remote) | Nov 6 | [View](https://roleweek.com/job/systems-administrator-1-wake-county-public-school-system-raleigh-durham-a05a4cb5/?utm_source=github) |
 | GUTHRIE THEATER | Systems Administrator I | Minneapolis, MN | Nov 6 | [View](https://roleweek.com/job/systems-administrator-i-guthrie-theater-minneapolis-d1b4965c/?utm_source=github) |
 | American Express | Software Engineer I | Sunrise, FL | Nov 5 | [View](https://roleweek.com/job/software-engineer-i-american-express-miami-b0f1cff0/?utm_source=github) |
-| Amazon | Data Engineer I, Secure Third Party Tools (S3T) | Austin, TX | Nov 5 | [View](https://roleweek.com/job/data-engineer-i-secure-third-party-tools-s3t-amazon-austin-4b14ac0a/?utm_source=github) |
-| SAIC | Junior Azure Cloud Administrator | Rockville, MD | Nov 5 | [View](https://roleweek.com/job/junior-azure-cloud-administrator-saic-washington-dc-08f1755a/?utm_source=github) |
-| Clarity Innovations | Junior Systems Administrator | Herndon, VA | Nov 5 | [View](https://roleweek.com/job/junior-systems-administrator-clarity-innovations-washington-dc-c4b500e2/?utm_source=github) |
-| Amazon | Software Development Engineer (Embedded systems), Amazon Leo, Early Career - 2027 (US) | Redmond, Northridge | Nov 5 | [View](https://roleweek.com/job/software-development-engineer-embedded-systems-amazon-leo-amazon-seattle-8ed0385e/?utm_source=github) |
-| Amazon | Software Development Engineer, Amazon Leo, Early Career - 2027 (US) | Redmond, WA | Nov 5 | [View](https://roleweek.com/job/software-development-engineer-amazon-leo-early-career-2027-amazon-seattle-1d63457b/?utm_source=github) |
 
 ## Developer internships
 
-254 internships at 155 employers, newest first. [The same list on RoleWeek](https://roleweek.com/internships/?utm_source=github).
+255 internships at 151 employers, newest first. [The same list on RoleWeek](https://roleweek.com/internships/?utm_source=github).
 
 | Employer | Role | Location | Posted | Link |
 | --- | --- | --- | --- | --- |
+| Jabil | IT Programmer Analyst Spring Co-Op | Florence, KY | Nov 12 | [View](https://roleweek.com/job/it-programmer-analyst-spring-co-op-jabil-elsewhere-2f456130/?utm_source=github) |
+| Muon Space | Security Engineering Intern (Summer 2027) | Mountain View, CA | Nov 12 | [View](https://roleweek.com/job/security-engineering-intern-summer-2027-muon-space-san-francisco-bay-area-8639d241/?utm_source=github) |
+| Lightmatter | Data & AI Platform, Intern - Summer 2027 | Boston, MA | Nov 12 | [View](https://roleweek.com/job/data-and-ai-platform-intern-summer-2027-lightmatter-boston-c625fab2/?utm_source=github) |
+| AEP | Cybersecurity Intern - Summer 2027 | Columbus, OH | Nov 12 | [View](https://roleweek.com/job/cybersecurity-intern-summer-2027-aep-columbus-c2aaed23/?utm_source=github) |
+| Analog Devices | Product Engineering (Prod Dev) Intern | Ottawa | Nov 12 | [View](https://roleweek.com/job/product-engineering-prod-dev-intern-analog-devices-elsewhere-62e04dfd/?utm_source=github) |
+| Micron | Intern - IT Software Engineer | Boise, ID | Nov 12 | [View](https://roleweek.com/job/intern-it-software-engineer-micron-boise-0856e6b6/?utm_source=github) |
+| Intermountain Health | AI/ML Engineer Intern | Most US states (remote) | Nov 12 | [View](https://roleweek.com/job/ai-ml-engineer-intern-intermountain-health-remote-02884843/?utm_source=github) |
+| SharkNinja | Summer 2027: Data Science Intern (May to August) | Needham, MA | Nov 12 | [View](https://roleweek.com/job/summer-2027-data-science-intern-may-to-august-sharkninja-boston-86dd4d05/?utm_source=github) |
+| Zoox | Contract Student Worker - Machine Learning Engineer | Seattle, Foster City +2 | Nov 12 | [View](https://roleweek.com/job/contract-student-worker-machine-learning-engineer-zoox-seattle-4c95a97b/?utm_source=github) |
+| TMX | AI Engineering Intern | Toronto | Nov 12 | [View](https://roleweek.com/job/ai-engineering-intern-tmx-toronto-0d1be501/?utm_source=github) |
 | Zotec Partners | Business Intelligence Intern | Carmel, IN | Nov 12 | [View](https://roleweek.com/job/business-intelligence-intern-zotec-partners-elsewhere-b28d17ea/?utm_source=github) |
 | Bask Health | Frontend Engineering Intern | US (remote) | Nov 12 | [View](https://roleweek.com/job/frontend-engineering-intern-bask-health-remote-5d18d763/?utm_source=github) |
+| Muon Space | Software Engineering Intern-Information Systems (Summer 2027) | San Jose, CA | Nov 12 | [View](https://roleweek.com/job/software-engineering-intern-information-systems-summer-2027-muon-space-san-francisco-bay-area-38863d51/?utm_source=github) |
+| Stratolaunch | Business Intelligence & Systems Analyst Intern 2027 | Mojave, CA | Nov 12 | [View](https://roleweek.com/job/business-intelligence-and-systems-analyst-intern-2027-stratolaunch-elsewhere-ebff6c66/?utm_source=github) |
+| Intermountain Health | Machine Learning Operations (MLOps) Intern | Most US states (remote) | Nov 12 | [View](https://roleweek.com/job/machine-learning-operations-mlops-intern-intermountain-health-remote-6722e857/?utm_source=github) |
 | Zotec Partners | Database Engineer Intern | Carmel, IN | Nov 12 | [View](https://roleweek.com/job/database-engineer-intern-zotec-partners-elsewhere-be3fa0a4/?utm_source=github) |
 | Zotec Partners | Software Engineer Intern | Carmel, IN | Nov 12 | [View](https://roleweek.com/job/software-engineer-intern-zotec-partners-elsewhere-89f98e4d/?utm_source=github) |
 | Zotec Partners | Software Engineer Intern, RCI | Carmel, IN | Nov 12 | [View](https://roleweek.com/job/software-engineer-intern-rci-zotec-partners-elsewhere-478a344d/?utm_source=github) |
@@ -237,11 +245,10 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Roche | 2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments | South San Francisco | Nov 11 | [View](https://roleweek.com/job/2027-summer-intern-digital-ai-and-clinical-outcome-roche-san-francisco-bay-area-8e7046c5/?utm_source=github) |
 | Unisys | Software Engineer Intern | Eagan, MN | Nov 11 | [View](https://roleweek.com/job/software-engineer-intern-unisys-minneapolis-1f1a48e6/?utm_source=github) |
 | Riot Games | Machine Learning Engineering Intern (Masters/PhD) - Summer 2027 | Los Angeles | Nov 11 | [View](https://roleweek.com/job/machine-learning-engineering-intern-masters-phd-summer-2027-riot-games-los-angeles-48a70891/?utm_source=github) |
-| Seagate | Generative AI & Machine Learning Engineering Intern (Summer 2027) | Bloomington, MN | Nov 11 | [View](https://roleweek.com/job/generative-ai-and-machine-learning-engineering-intern-seagate-minneapolis-376da51d/?utm_source=github) |
 | Bask Health | AI Product Intern | US (remote) | Nov 11 | [View](https://roleweek.com/job/ai-product-intern-bask-health-remote-9a51abd7/?utm_source=github) |
 | Bose | Digital Signal Processing ML Software Development Co-op | US | Nov 11 | [View](https://roleweek.com/job/digital-signal-processing-ml-software-development-co-op-bose-boston-77cdc1e6/?utm_source=github) |
+| Seagate | Generative AI & Machine Learning Engineering Intern (Summer 2027) | Bloomington, MN | Nov 11 | [View](https://roleweek.com/job/generative-ai-and-machine-learning-engineering-intern-seagate-minneapolis-376da51d/?utm_source=github) |
 | Aramark | Intern, Data Management for Items and Customers | Rockville, MD | Nov 11 | [View](https://roleweek.com/job/intern-data-management-for-items-and-customers-aramark-washington-dc-36b76503/?utm_source=github) |
-| Liebherr | Software Development Intern | Newport News, VA | Nov 11 | [View](https://roleweek.com/job/software-development-intern-liebherr-hampton-roads-6afb5204/?utm_source=github) |
 | Form Labs | 2027 (Summer) - Manufacturing - Manufacturing Test Software Intern | Somerville, MA | Nov 11 | [View](https://roleweek.com/job/2027-summer-manufacturing-manufacturing-test-software-intern-form-labs-boston-7abf7119/?utm_source=github) |
 | Motorola Solutions | 2027 Summer Embedded SW Engineering Intern | Schaumburg, IL | Nov 11 | [View](https://roleweek.com/job/2027-summer-embedded-sw-engineering-intern-motorola-solutions-chicago-f0439275/?utm_source=github) |
 | MKS | 2027 Summer Software Engineer Co-op | Andover, MA | Nov 11 | [View](https://roleweek.com/job/2027-summer-software-engineer-co-op-mks-boston-6a76aba3/?utm_source=github) |
@@ -250,6 +257,7 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Lockheed Martin | AI Research Engineer Intern | US states: CO, AL (remote) | Nov 11 | [View](https://roleweek.com/job/ai-research-engineer-intern-lockheed-martin-remote-1253eea4/?utm_source=github) |
 | Ciena | AI/ML Layout Engineering Intern (Winter 2027) | Ottawa | Nov 11 | [View](https://roleweek.com/job/ai-ml-layout-engineering-intern-winter-2027-ciena-elsewhere-ef3f1486/?utm_source=github) |
 | AstraZeneca | Co-Op, Development Operations AI & Automation Enablement Intern | Mississauga | Nov 11 | [View](https://roleweek.com/job/co-op-development-operations-ai-and-automation-enablement-astrazeneca-toronto-861055f2/?utm_source=github) |
+| Zoox | Contract Student Worker - Software Engineer (20/hrs week) | Foster City, CA | Nov 11 | [View](https://roleweek.com/job/contract-student-worker-software-engineer-20-hrs-week-zoox-san-francisco-bay-area-e4215d46/?utm_source=github) |
 | PTC | Creo Graphics Engineering Intern (Summer 2027) | Boston, MA | Nov 11 | [View](https://roleweek.com/job/creo-graphics-engineering-intern-summer-2027-ptc-boston-cc12e0c3/?utm_source=github) |
 | Grant Thornton | Cybersecurity and Privacy Intern - Summer 2027 | New York, NY | Nov 11 | [View](https://roleweek.com/job/cybersecurity-and-privacy-intern-summer-2027-grant-thornton-new-york-9627e5e2/?utm_source=github) |
 | Austal USA | Cybersecurity Intern | Mobile, AL | Nov 11 | [View](https://roleweek.com/job/cybersecurity-intern-austal-usa-elsewhere-4d566105/?utm_source=github) |
@@ -257,30 +265,29 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Panera Bread | Data Science & AI Analytics - Summer 2027 Internship Program | Newton | Nov 11 | [View](https://roleweek.com/job/data-science-and-ai-analytics-summer-2027-internship-program-panera-bread-boston-05529e2d/?utm_source=github) |
 | Bloom Energy | Data Science Intern | San Jose, CA | Nov 11 | [View](https://roleweek.com/job/data-science-intern-bloom-energy-san-francisco-bay-area-39386359/?utm_source=github) |
 | RTX | Electrical (Firmware) Engineering Intern (Summer 2027) | Ft Wayne, IN | Nov 11 | [View](https://roleweek.com/job/electrical-firmware-engineering-intern-summer-2027-onsite-rtx-elsewhere-039e2e55/?utm_source=github) |
-| Parabola | Engineering Intern | San Francisco, New York | Nov 11 | [View](https://roleweek.com/job/engineering-intern-parabola-san-francisco-bay-area-462b3679/?utm_source=github) |
 | Lockheed Martin | Computer/Software Engineering Intern | Littleton, CO | Nov 11 | [View](https://roleweek.com/job/computer-software-engineering-intern-lockheed-martin-denver-boulder-43bf267b/?utm_source=github) |
 | Toyota Research Institute | Future Product Innovation Research Intern, Human-AI Computational Design | Los Altos, CA | Nov 11 | [View](https://roleweek.com/job/future-product-innovation-research-intern-human-ai-toyota-research-institute-san-francisco-bay-area-b634bd7f/?utm_source=github) |
-| Securitymetrics | Intern - Software Engineer | Orem, UT | Nov 11 | [View](https://roleweek.com/job/intern-software-engineer-securitymetrics-salt-lake-city-b35504ed/?utm_source=github) |
+| SecurityMetrics | Intern - Software Engineer | Orem, UT | Nov 11 | [View](https://roleweek.com/job/intern-software-engineer-securitymetrics-salt-lake-city-b35504ed/?utm_source=github) |
+| Bask Health | Backend Engineering Intern | US (remote) | Nov 11 | [View](https://roleweek.com/job/backend-engineering-intern-bask-health-remote-44620aa6/?utm_source=github) |
+| Zoox | Contract Student Worker – Firmware Engineer (FW Core System Services) | Seattle, Foster City +1 | Nov 11 | [View](https://roleweek.com/job/contract-student-worker-firmware-engineer-fw-core-system-zoox-seattle-e3e42a17/?utm_source=github) |
 | Moog | Intern Engineering, Product Engineering | Blacksburg, VA | Nov 11 | [View](https://roleweek.com/job/intern-engineering-product-engineering-moog-elsewhere-f15c0f92/?utm_source=github) |
 | Rockwell Automation | Intern, Software Developer/Engineering | Mequon, WI | Nov 11 | [View](https://roleweek.com/job/intern-software-developer-engineering-rockwell-automation-elsewhere-8ac4db8d/?utm_source=github) |
 | Shive Hattery Group | Internship - Software Development | Iowa City, IA | Nov 11 | [View](https://roleweek.com/job/internship-software-development-shive-hattery-group-elsewhere-9c6c63ad/?utm_source=github) |
 | Form Labs | Manufacturing Test Software Intern (Summer 2027) | Somerville, MA | Nov 11 | [View](https://roleweek.com/job/manufacturing-test-software-intern-summer-2027-form-labs-boston-3ea9d5a3/?utm_source=github) |
-| Nexteer Automotive | Robotics & Physical AI Intern - Summer 2027 | Saginaw, MI | Nov 11 | [View](https://roleweek.com/job/robotics-and-physical-ai-intern-summer-2027-nexteer-automotive-elsewhere-000aaad7/?utm_source=github) |
 | Bloom Energy | RMCC Data Science Intern | San Jose, CA | Nov 11 | [View](https://roleweek.com/job/rmcc-data-science-intern-bloom-energy-san-francisco-bay-area-0bdb9783/?utm_source=github) |
+| Lockheed Martin | Cyber Software Engineer Intern - Summer 2027 | Herndon, VA | Nov 11 | [View](https://roleweek.com/job/cyber-software-engineer-intern-summer-2027-lockheed-martin-washington-dc-dbcb5103/?utm_source=github) |
+| Nexteer Automotive | Robotics & Physical AI Intern - Summer 2027 | Saginaw, MI | Nov 11 | [View](https://roleweek.com/job/robotics-and-physical-ai-intern-summer-2027-nexteer-automotive-elsewhere-000aaad7/?utm_source=github) |
 | Aaregional | Safety Data Analytics Intern | Charlotte, NC | Nov 11 | [View](https://roleweek.com/job/safety-data-analytics-intern-aaregional-charlotte-b23240ce/?utm_source=github) |
+| Bask Health | Product Engineering Intern | US (remote) | Nov 11 | [View](https://roleweek.com/job/product-engineering-intern-bask-health-remote-3004baf3/?utm_source=github) |
 | HUB International | Security Architect Intern | Chicago, IL | Nov 11 | [View](https://roleweek.com/job/security-architect-intern-hub-international-chicago-0bfb660c/?utm_source=github) |
-| Brex | Software Engineer, Intern (Summer 2027) | San Francisco, CA | Nov 11 | [View](https://roleweek.com/job/software-engineer-intern-summer-2027-brex-san-francisco-bay-area-1bcbfd59/?utm_source=github) |
 | AeroVironment | Software Engineering Intern | Lawrence, KS | Nov 11 | [View](https://roleweek.com/job/software-engineering-intern-aerovironment-elsewhere-8eaf8c69/?utm_source=github) |
 | Vertiv | Software Engineering Intern (Graduate) (Summer 2027) | Huntsville, AL | Nov 11 | [View](https://roleweek.com/job/software-engineering-intern-graduate-summer-2027-vertiv-huntsville-42d7a4c2/?utm_source=github) |
 | RTX | Software Engineering Intern (ISET-IN-2) | Sterling, VA | Nov 11 | [View](https://roleweek.com/job/software-engineering-intern-iset-in-2-rtx-washington-dc-6b35ef96/?utm_source=github) |
-| Bask Health | Backend Engineering Intern | US (remote) | Nov 11 | [View](https://roleweek.com/job/backend-engineering-intern-bask-health-remote-44620aa6/?utm_source=github) |
-| Lockheed Martin | Cyber Software Engineer Intern - Summer 2027 | Herndon, VA | Nov 11 | [View](https://roleweek.com/job/cyber-software-engineer-intern-summer-2027-lockheed-martin-washington-dc-dbcb5103/?utm_source=github) |
 | Motorola Solutions | Software Engineering Intern - 2027 Summer Internship | Schaumburg, IL | Nov 11 | [View](https://roleweek.com/job/software-engineering-intern-2027-summer-internship-motorola-solutions-chicago-c7aa1556/?utm_source=github) |
 | SharkNinja | Spring 2027: Product Performance Test Engineer Co-op (January through June) | Needham, MA | Nov 11 | [View](https://roleweek.com/job/spring-2027-product-performance-test-engineer-co-op-january-sharkninja-boston-ed1df20e/?utm_source=github) |
+| Lockheed Martin | DevSecOps Intern - Summer 2027 | King of Prussia, PA | Nov 11 | [View](https://roleweek.com/job/devsecops-intern-summer-2027-lockheed-martin-philadelphia-ea57316b/?utm_source=github) |
 | DTNA | Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst | Detroit, MI | Nov 11 | [View](https://roleweek.com/job/cybersecurity-intern-governance-risk-and-compliance-grc-dtna-detroit-5a228001/?utm_source=github) |
 | Cummins | Information Technology Co-op Positions | Columbus, IN | Nov 11 | [View](https://roleweek.com/job/information-technology-co-op-positions-cummins-elsewhere-eef2b85f/?utm_source=github) |
-| Bask Health | Product Engineering Intern | US (remote) | Nov 11 | [View](https://roleweek.com/job/product-engineering-intern-bask-health-remote-3004baf3/?utm_source=github) |
-| Lockheed Martin | DevSecOps Intern - Summer 2027 | King of Prussia, PA | Nov 11 | [View](https://roleweek.com/job/devsecops-intern-summer-2027-lockheed-martin-philadelphia-ea57316b/?utm_source=github) |
 | Bask Health | Software Engineering Intern | US (remote) | Nov 11 | [View](https://roleweek.com/job/software-engineering-intern-bask-health-remote-3d2abdd1/?utm_source=github) |
 | Lockheed Martin | Network Infrastructure Engineer - Intern | Moorestown, NJ | Nov 11 | [View](https://roleweek.com/job/network-infrastructure-engineer-intern-lockheed-martin-philadelphia-c36f3241/?utm_source=github) |
 | REGENT | Cybersecurity & IT Operations Intern (Summer) | North Kingstown, RI | Nov 10 | [View](https://roleweek.com/job/cybersecurity-and-it-operations-intern-summer-regent-elsewhere-e97307e1/?utm_source=github) |
@@ -290,47 +297,45 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Stryker | Systems R&D Engineer Co Op | Burnaby, Canada | Nov 10 | [View](https://roleweek.com/job/systems-r-and-d-engineer-co-op-stryker-vancouver-0d974e05/?utm_source=github) |
 | DwyerOmega | Applied AI Intern | US (remote) | Nov 10 | [View](https://roleweek.com/job/applied-ai-intern-dwyeromega-remote-a3fbc5c6/?utm_source=github) |
 | Trimble | Software Engineering Intern | Knoxville | Nov 10 | [View](https://roleweek.com/job/software-engineering-intern-trimble-elsewhere-2484bf3e/?utm_source=github) |
-| General Motors | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, CA | Nov 10 | [View](https://roleweek.com/job/2027-summer-intern-machine-learning-engineer-embodied-ai-general-motors-san-francisco-bay-area-03709393/?utm_source=github) |
 | Motorola Solutions | Software System Technologist Intern (Summer 2027 Internship) | Allen, TX | Nov 10 | [View](https://roleweek.com/job/software-system-technologist-intern-summer-2027-internship-motorola-solutions-dallas-fort-worth-18ed6d60/?utm_source=github) |
 | NVIDIA | AI Operations Intern, AI Clouds - Summer 2027 | Santa Clara, CA | Nov 10 | [View](https://roleweek.com/job/ai-operations-intern-ai-clouds-summer-2027-nvidia-san-francisco-bay-area-84f3f8a7/?utm_source=github) |
 | Toyota Research Institute | Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) | Los Altos, CA | Nov 10 | [View](https://roleweek.com/job/human-centered-ai-research-intern-causal-reasoning-models-toyota-research-institute-san-francisco-bay-area-ed992caf/?utm_source=github) |
 | Palantir | Software Engineer, Intern - Connectivity Platform and Product | Denver, CO | Nov 10 | [View](https://roleweek.com/job/software-engineer-intern-connectivity-platform-and-product-palantir-new-york-f9236ec2/?utm_source=github) |
 | SOTI | Software Developer Intern (May 2027 - 12 months) | Mississauga, Canada | Nov 10 | [View](https://roleweek.com/job/software-developer-intern-may-2027-12-months-soti-toronto-d9bf89d5/?utm_source=github) |
 | REGENT | Embedded Software Engineering Intern (Summer) | North Kingstown, RI | Nov 10 | [View](https://roleweek.com/job/embedded-software-engineering-intern-summer-regent-elsewhere-12ae8783/?utm_source=github) |
-| DwyerOmega | Applied AI Intern - Spring 2027 Start | US (remote) | Nov 10 | [View](https://roleweek.com/job/applied-ai-intern-spring-2027-start-dwyeromega-remote-e1b9a66e/?utm_source=github) |
-| EquipmentShare | Intern: Engineering (Embedded) | Columbia, MO | Nov 10 | [View](https://roleweek.com/job/intern-engineering-embedded-equipmentshare-elsewhere-e1031e12/?utm_source=github) |
 | Addepar | AI Engineering Intern - Summer 2027 | New York, NY | Nov 10 | [View](https://roleweek.com/job/ai-engineering-intern-summer-2027-addepar-new-york-950a31e5/?utm_source=github) |
 | Integration Innovation | Cybersecurity Internship | Huntsville, AL | Nov 10 | [View](https://roleweek.com/job/cybersecurity-internship-integration-innovation-huntsville-83d3d289/?utm_source=github) |
+| DwyerOmega | Applied AI Intern - Spring 2027 Start | US (remote) | Nov 10 | [View](https://roleweek.com/job/applied-ai-intern-spring-2027-start-dwyeromega-remote-e1b9a66e/?utm_source=github) |
 | Applied Materials | 2027 Spring Software Engineer Co-op | Billerica, MA | Nov 10 | [View](https://roleweek.com/job/2027-spring-software-engineer-co-op-billerica-ma-applied-materials-boston-4a7cf68c/?utm_source=github) |
 | Civil Design | 2027 Summer Internship - GIS/Data Science Internship | Saint Louis, Collinsville +1 | Nov 10 | [View](https://roleweek.com/job/2027-summer-internship-gis-data-science-internship-civil-design-st-louis-968ab719/?utm_source=github) |
 | Hook Music | AI Music Research Intern | Remote | Nov 10 | [View](https://roleweek.com/job/ai-music-research-intern-hook-music-remote-0b6ab800/?utm_source=github) |
 | The Church of Jesus Christ of Latter-day Saints | AI Paid Intern (full time or part time) | Salt Lake City, UT | Nov 10 | [View](https://roleweek.com/job/ai-paid-intern-full-time-or-part-time-the-church-of-jesus-christ-of-latter-salt-lake-city-d908df2b/?utm_source=github) |
-| REGENT | Engineering Intern to the Chief Engineer (Summer) | North Kingstown, RI | Nov 10 | [View](https://roleweek.com/job/engineering-intern-to-the-chief-engineer-summer-regent-elsewhere-9e6c9ed5/?utm_source=github) |
 | Judi Health | AI Solutions Intern | New York | Nov 10 | [View](https://roleweek.com/job/ai-solutions-intern-judi-health-new-york-3261e301/?utm_source=github) |
 | Lockheed Martin | AI/ML Engineering Intern - Summer 2027 | King of Prussia, PA | Nov 10 | [View](https://roleweek.com/job/ai-ml-engineering-intern-summer-2027-lockheed-martin-philadelphia-8be82ce0/?utm_source=github) |
 | Xbox Gaming | Blizzard 2027 Summer Internships - Animation & Cinematic Tools Engineering | Los Angeles | Nov 10 | [View](https://roleweek.com/job/blizzard-2027-summer-internships-animation-and-cinematic-xbox-gaming-los-angeles-2dce39f9/?utm_source=github) |
-| Minitab | Cybersecurity Intern (Summer 2027) | State College, PA | Nov 10 | [View](https://roleweek.com/job/cybersecurity-intern-summer-2027-minitab-elsewhere-bb0c0921/?utm_source=github) |
+| REGENT | Engineering Intern to the Chief Engineer (Summer) | North Kingstown, RI | Nov 10 | [View](https://roleweek.com/job/engineering-intern-to-the-chief-engineer-summer-regent-elsewhere-9e6c9ed5/?utm_source=github) |
 | Addepar | Data Engineering Intern - Summer 2027 | New York, NY | Nov 10 | [View](https://roleweek.com/job/data-engineering-intern-summer-2027-addepar-new-york-72baabd2/?utm_source=github) |
 | Integration Innovation | Data Management Internship | Huntsville, AL | Nov 10 | [View](https://roleweek.com/job/data-management-internship-integration-innovation-huntsville-e0bd8311/?utm_source=github) |
+| Minitab | Cybersecurity Intern (Summer 2027) | State College, PA | Nov 10 | [View](https://roleweek.com/job/cybersecurity-intern-summer-2027-minitab-elsewhere-bb0c0921/?utm_source=github) |
 | PACCAR | Data Engineering Intern | Chillicothe, OH | Nov 10 | [View](https://roleweek.com/job/data-engineering-intern-paccar-elsewhere-bfe6215f/?utm_source=github) |
 | Riot Games | Data Engineering Intern - Summer 2027 | Los Angeles | Nov 10 | [View](https://roleweek.com/job/data-engineering-intern-summer-2027-riot-games-los-angeles-e2aafd4e/?utm_source=github) |
 | Art of Problem Solving | Data Science Intern | San Diego, CA | Nov 10 | [View](https://roleweek.com/job/data-science-intern-art-of-problem-solving-san-diego-25161102/?utm_source=github) |
 | Astranis | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | Nov 10 | [View](https://roleweek.com/job/embedded-software-developer-network-payload-intern-summer-astranis-san-francisco-bay-area-bd31dbce/?utm_source=github) |
-| REGENT | Mission Software Engineering Intern (Summer) | North Kingstown, RI | Nov 10 | [View](https://roleweek.com/job/mission-software-engineering-intern-summer-regent-elsewhere-764459e9/?utm_source=github) |
 | Skydio | Hardware In Loop (HIL) Software Engineer Intern - Winter 2027 | San Mateo, CA | Nov 10 | [View](https://roleweek.com/job/hardware-in-loop-hil-software-engineer-intern-winter-2027-skydio-san-francisco-bay-area-b2ce300d/?utm_source=github) |
 | USF University of South Florida | IAE Software Engineering Internship – Spring 2027 | Tampa, FL | Nov 10 | [View](https://roleweek.com/job/iae-software-engineering-internship-spring-2027-usf-university-of-south-florida-tampa-6d61523a/?utm_source=github) |
 | Optimum | Intern - Associate Mobile Engineer | Bethpage, NY | Nov 10 | [View](https://roleweek.com/job/intern-associate-mobile-engineer-optimum-new-york-48d637de/?utm_source=github) |
-| National Information Solutions Cooperative | Intern - Test Automation | Lake Saint Louis, MO | Nov 10 | [View](https://roleweek.com/job/intern-test-automation-national-information-solutions-st-louis-0d939454/?utm_source=github) |
+| REGENT | Mission Software Engineering Intern (Summer) | North Kingstown, RI | Nov 10 | [View](https://roleweek.com/job/mission-software-engineering-intern-summer-regent-elsewhere-764459e9/?utm_source=github) |
 | Addepar | Software Engineering Intern - Summer 2027 | New York, NY | Nov 10 | [View](https://roleweek.com/job/software-engineering-intern-summer-2027-addepar-new-york-5a9e77f2/?utm_source=github) |
+| National Information Solutions Cooperative | Intern - Test Automation | Lake Saint Louis, MO | Nov 10 | [View](https://roleweek.com/job/intern-test-automation-national-information-solutions-st-louis-0d939454/?utm_source=github) |
 | SAS | JMP 2027 Summer Internship; C++ Software Development | North Carolina | Nov 10 | [View](https://roleweek.com/job/jmp-2027-summer-internship-c-plus-plus-software-development-sas-elsewhere-28e64c95/?utm_source=github) |
 | Hook Music | Machine Learning Engineering Intern, Recommendation Systems | Remote | Nov 10 | [View](https://roleweek.com/job/machine-learning-engineering-intern-recommendation-systems-hook-music-remote-5d323c68/?utm_source=github) |
 | Rambus | Product Engineering Intern | San Jose, CA | Nov 10 | [View](https://roleweek.com/job/product-engineering-intern-rambus-san-francisco-bay-area-358eefdf/?utm_source=github) |
 | RTX | Software Engineering Intern (Summer 2027) | Richardson, Mckinney +1 | Nov 10 | [View](https://roleweek.com/job/software-engineering-intern-summer-2027-rtx-denver-boulder-19d99578/?utm_source=github) |
 | General Dynamics Mission Systems | Software Test Engineering Intern - Space and Embedded Crypto | Scottsdale, AZ (remote) | Nov 10 | [View](https://roleweek.com/job/software-test-engineering-intern-space-and-embedded-crypto-general-dynamics-mission-systems-phoenix-edfc0887/?utm_source=github) |
-| SharkNinja | Spring 2027: Product Test Engineering Co-op (January through June) | Needham, MA | Nov 10 | [View](https://roleweek.com/job/spring-2027-product-test-engineering-co-op-january-through-sharkninja-boston-c9844528/?utm_source=github) |
 | Skydio | Middleware Software Engineer Intern - Summer 2027 | San Mateo, CA | Nov 10 | [View](https://roleweek.com/job/middleware-software-engineer-intern-summer-2027-skydio-san-francisco-bay-area-d1b83c9d/?utm_source=github) |
-| Walmart | Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery | Bentonville, AR | Nov 10 | [View](https://roleweek.com/job/summer-2027-corporate-intern-data-science-and-data-walmart-elsewhere-3373e570/?utm_source=github) |
+| SharkNinja | Spring 2027: Product Test Engineering Co-op (January through June) | Needham, MA | Nov 10 | [View](https://roleweek.com/job/spring-2027-product-test-engineering-co-op-january-through-sharkninja-boston-c9844528/?utm_source=github) |
 | Optimum | Intern - Cloud Platform Engineering | Bethpage, NY | Nov 10 | [View](https://roleweek.com/job/intern-cloud-platform-engineering-optimum-new-york-84382ed4/?utm_source=github) |
+| Walmart | Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery | Bentonville, AR | Nov 10 | [View](https://roleweek.com/job/summer-2027-corporate-intern-data-science-and-data-walmart-elsewhere-3373e570/?utm_source=github) |
 | Salesforce | Summer 2027 Intern - Applied AI Strategy & Research | San Francisco, CA | Nov 10 | [View](https://roleweek.com/job/summer-2027-intern-applied-ai-strategy-and-research-salesforce-san-francisco-bay-area-901b946c/?utm_source=github) |
 | Hitachi | DevOps Analyst Intern | Toronto, ON | Nov 10 | [View](https://roleweek.com/job/devops-analyst-intern-hitachi-toronto-8ae49aa1/?utm_source=github) |
 | PACCAR | 2027 Summer Internship: Information Technology (SG15/16) | Denton, TX | Nov 10 | [View](https://roleweek.com/job/2027-summer-internship-information-technology-sg15-16-paccar-dallas-fort-worth-2ebcd5fd/?utm_source=github) |
@@ -346,7 +351,6 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Analog Devices | Machine Learning for Computational Sensing Research Intern | Boston, MA | Nov 9 | [View](https://roleweek.com/job/machine-learning-for-computational-sensing-research-intern-analog-devices-boston-aad24e90/?utm_source=github) |
 | Federal Reserve | Summer 2027 Graduate Internship – Data Science | Minneapolis, Helena | Nov 9 | [View](https://roleweek.com/job/summer-2027-graduate-internship-data-science-federal-reserve-minneapolis-26a435ef/?utm_source=github) |
 | Siemens Healthineers | Application Software Developer Co-Op | YOW B | Nov 9 | [View](https://roleweek.com/job/application-software-developer-co-op-siemens-healthineers-elsewhere-15b277b3/?utm_source=github) |
-| Radiance Technologies | Software Engineer Intern Spring/Summer 2027 | Dayton | Nov 9 | [View](https://roleweek.com/job/software-engineer-intern-spring-summer-2027-radiance-technologies-dayton-ed041660/?utm_source=github) |
 | Northrop Grumman | 2027 Software Testing Engineering Intern | Apopka, FL | Nov 9 | [View](https://roleweek.com/job/2027-software-testing-engineering-intern-apopka-fl-northrop-grumman-elsewhere-3877d19e/?utm_source=github) |
 | Cirrus | 2027 Internship - Applied AI Engineering | Austin, TX | Nov 9 | [View](https://roleweek.com/job/2027-internship-applied-ai-engineering-cirrus-austin-1a1767e3/?utm_source=github) |
 | Toyota Research Institute | Automated Driving Advanced Development Intern, Machine Learning Research | Los Altos, CA | Nov 9 | [View](https://roleweek.com/job/automated-driving-advanced-development-intern-machine-toyota-research-institute-san-francisco-bay-area-a3b32af3/?utm_source=github) |
@@ -354,8 +358,8 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Nokia | Defense Software Test & AI Co-Op | US | Nov 9 | [View](https://roleweek.com/job/defense-software-test-and-ai-co-op-nokia-elsewhere-c5d08f79/?utm_source=github) |
 | MaxInsights | Machine Learning Engineer Intern - Video Foundation Models & Agentic AI | Santa Clara | Nov 9 | [View](https://roleweek.com/job/machine-learning-engineer-intern-video-foundation-models-maxinsights-san-francisco-bay-area-de8f5912/?utm_source=github) |
 | Illumio | Engineering Intern, SRE | Sunnyvale, CA | Nov 9 | [View](https://roleweek.com/job/engineering-intern-sre-illumio-san-francisco-bay-area-2041f7dc/?utm_source=github) |
-| Siemens Healthineers | Embedded Software Developer Co-Op | YOW B | Nov 9 | [View](https://roleweek.com/job/embedded-software-developer-co-op-siemens-healthineers-elsewhere-f241fa70/?utm_source=github) |
 | The New York Times | ML Scientist Intern | New York, NY | Nov 9 | [View](https://roleweek.com/job/ml-scientist-intern-the-new-york-times-new-york-a5d430da/?utm_source=github) |
+| Siemens Healthineers | Embedded Software Developer Co-Op | YOW B | Nov 9 | [View](https://roleweek.com/job/embedded-software-developer-co-op-siemens-healthineers-elsewhere-f241fa70/?utm_source=github) |
 | Vizient | 2027 Summer Internship - Data Management | Irving, TX | Nov 9 | [View](https://roleweek.com/job/2027-summer-internship-data-management-vizient-dallas-fort-worth-68fcc131/?utm_source=github) |
 | U-Haul | Software Development Spring Internship | Phoenix, AZ | Nov 9 | [View](https://roleweek.com/job/software-development-spring-internship-u-haul-phoenix-275f71a5/?utm_source=github) |
 | Altera | FPGA Design Verification Intern | Toronto, ON | Nov 9 | [View](https://roleweek.com/job/fpga-design-verification-intern-altera-toronto-0a0789b2/?utm_source=github) |
@@ -367,7 +371,6 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Atrium Hospitality | AI & Automation Intern | Alpharetta, GA (remote) | Nov 9 | [View](https://roleweek.com/job/ai-and-automation-intern-atrium-hospitality-atlanta-98a3ce25/?utm_source=github) |
 | Zoetis | AI Acceleration Intern - AI Development Lifecycle | US (remote) | Nov 9 | [View](https://roleweek.com/job/ai-acceleration-intern-ai-development-lifecycle-zoetis-remote-12d16f3d/?utm_source=github) |
 | Taulia | AI Center of Excellence (COE) Intern | Salt Lake City, UT | Nov 9 | [View](https://roleweek.com/job/ai-center-of-excellence-coe-intern-taulia-salt-lake-city-46654314/?utm_source=github) |
-| UiPath | AI Engineer Intern | Bellevue | Nov 9 | [View](https://roleweek.com/job/ai-engineer-intern-uipath-seattle-6fc4adb1/?utm_source=github) |
 | Epic Games | AI Programmer Intern | Cary, NC | Nov 9 | [View](https://roleweek.com/job/ai-programmer-intern-epic-games-raleigh-durham-97bff951/?utm_source=github) |
 | Lockheed Martin | Cloud Infrastructure Intern - Summer 2027 | King of Prussia, PA | Nov 9 | [View](https://roleweek.com/job/cloud-infrastructure-intern-summer-2027-lockheed-martin-philadelphia-aaab94be/?utm_source=github) |
 | Lila Sciences | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA | Nov 9 | [View](https://roleweek.com/job/co-op-software-applied-ai-platform-engineer-lila-sciences-san-francisco-bay-area-a8ccb984/?utm_source=github) |
@@ -375,8 +378,8 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Tonic.ai | Forward Deployed Engineer, Data De-Identification (Co-op) | US (remote) | Nov 9 | [View](https://roleweek.com/job/forward-deployed-engineer-data-de-identification-co-op-tonic-ai-remote-5e48b3f0/?utm_source=github) |
 | General Dynamics Mission Systems | FPGA Engineer Intern | Scottsdale, AZ | Nov 9 | [View](https://roleweek.com/job/fpga-engineer-intern-general-dynamics-mission-systems-phoenix-5f2d3d3d/?utm_source=github) |
 | Qualcomm | FY27 Intern - Firmware Engineering Internship - Canada (16 months) | Toronto, ON | Nov 9 | [View](https://roleweek.com/job/fy27-intern-firmware-engineering-internship-canada-16-months-qualcomm-toronto-6df56321/?utm_source=github) |
-| Zoetis | AI Assistant Development Intern | Parsippany | Nov 9 | [View](https://roleweek.com/job/ai-assistant-development-intern-zoetis-new-york-b2013d0d/?utm_source=github) |
 | Hypertherm | Graduate Intern - Software Security | Kent, WA | Nov 9 | [View](https://roleweek.com/job/graduate-intern-software-security-hypertherm-seattle-e9bcad3d/?utm_source=github) |
+| Zoetis | AI Assistant Development Intern | Parsippany | Nov 9 | [View](https://roleweek.com/job/ai-assistant-development-intern-zoetis-new-york-b2013d0d/?utm_source=github) |
 | Persona.ai | Humanoid Robotics Software Internship | Pensacola, Houston | Nov 9 | [View](https://roleweek.com/job/humanoid-robotics-software-internship-persona-ai-houston-528ad4e2/?utm_source=github) |
 | Steel Dynamics | Information Security Internship | Fort Wayne, IN | Nov 9 | [View](https://roleweek.com/job/information-security-internship-steel-dynamics-elsewhere-758c7b92/?utm_source=github) |
 | Lockheed Martin | Cyber Intelligence Intern - Summer 2027 | Colorado Springs, CO | Nov 9 | [View](https://roleweek.com/job/cyber-intelligence-intern-summer-2027-lockheed-martin-colorado-springs-c0d11731/?utm_source=github) |
@@ -386,8 +389,8 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | General Dynamics Mission Systems | Full-Stack Application Development Intern, Summer 2027 | Scottsdale, AZ | Nov 9 | [View](https://roleweek.com/job/full-stack-application-development-intern-summer-2027-general-dynamics-mission-systems-phoenix-384fe9b7/?utm_source=github) |
 | Kiewit | Machine Learning Intern - Kiewit Data Services (Summer 2027) | Omaha, NE | Nov 9 | [View](https://roleweek.com/job/machine-learning-intern-kiewit-data-services-summer-2027-kiewit-elsewhere-521d97df/?utm_source=github) |
 | Trimble | Software Engineer Intern | Lake Oswego | Nov 9 | [View](https://roleweek.com/job/software-engineer-intern-trimble-portland-ca28c13d/?utm_source=github) |
-| Zoetis | AI Capabilities Intern – AI Architecture, Enablement & Tools | Kalamazoo (remote) | Nov 9 | [View](https://roleweek.com/job/ai-capabilities-intern-ai-architecture-enablement-and-tools-zoetis-remote-bdb787af/?utm_source=github) |
 | UiPath | Software Engineer Intern | Bellevue | Nov 9 | [View](https://roleweek.com/job/software-engineer-intern-uipath-seattle-5cf313cf/?utm_source=github) |
+| Zoetis | AI Capabilities Intern – AI Architecture, Enablement & Tools | Kalamazoo (remote) | Nov 9 | [View](https://roleweek.com/job/ai-capabilities-intern-ai-architecture-enablement-and-tools-zoetis-remote-bdb787af/?utm_source=github) |
 | RTX | Software Engineering Intern (E2D-IN-1) | Sterling, VA | Nov 9 | [View](https://roleweek.com/job/software-engineering-intern-e2d-in-1-rtx-washington-dc-dc285a8d/?utm_source=github) |
 | Hewlett Packard Enterprise | Strategic Sourcing AI & Automation Intern | Spring, TX | Nov 9 | [View](https://roleweek.com/job/strategic-sourcing-ai-and-automation-intern-hewlett-packard-enterprise-houston-93cd2588/?utm_source=github) |
 | Lockheed Martin | Cybersecurity Intern | Uniondale, NY | Nov 9 | [View](https://roleweek.com/job/cybersecurity-intern-lockheed-martin-new-york-76ab7e91/?utm_source=github) |
@@ -396,8 +399,8 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Warner Bros. Discovery | WB Games Data Engineering Co-op: Needham, MA - January-May 2027 | Boston | Nov 9 | [View](https://roleweek.com/job/wb-games-data-engineering-co-op-needham-ma-january-may-2027-warner-bros-discovery-boston-60252c61/?utm_source=github) |
 | General Dynamics Mission Systems | Full-Stack Software Engineering Intern, Summer 2027 | Scottsdale, AZ | Nov 9 | [View](https://roleweek.com/job/full-stack-software-engineering-intern-summer-2027-general-dynamics-mission-systems-phoenix-cc5d92df/?utm_source=github) |
 | Santander | 2027 IT – Infrastructure Operations Summer Intern | Madison Ave Corp | Nov 9 | [View](https://roleweek.com/job/2027-it-infrastructure-operations-summer-intern-santander-elsewhere-99c55ddd/?utm_source=github) |
-| Zoetis | Information Security Intern | Parsippany | Nov 9 | [View](https://roleweek.com/job/information-security-intern-zoetis-new-york-387ea001/?utm_source=github) |
 | Established in 1996, Jimmy Choo | 2027 Capri Holdings Summer Corporate Internship Program – Information Technology | Metro Area, NY | Nov 9 | [View](https://roleweek.com/job/2027-capri-holdings-summer-corporate-internship-program-established-in-1996-jimmy-choo-new-york-873c9981/?utm_source=github) |
+| Zoetis | Information Security Intern | Parsippany | Nov 9 | [View](https://roleweek.com/job/information-security-intern-zoetis-new-york-387ea001/?utm_source=github) |
 | Lila Sciences | Co-Op, IT/OT Security Analyst | Cambridge, MA | Nov 9 | [View](https://roleweek.com/job/co-op-it-ot-security-analyst-lila-sciences-boston-dba78e83/?utm_source=github) |
 | Tricon | IT Intern (8-month fixed term) | Toronto, ON | Nov 9 | [View](https://roleweek.com/job/it-intern-8-month-fixed-term-tricon-toronto-c0b90643/?utm_source=github) |
 | Lockheed Martin | DevSecOps Engineering Intern - Summer 2027 | King of Prussia, PA | Nov 9 | [View](https://roleweek.com/job/devsecops-engineering-intern-summer-2027-lockheed-martin-philadelphia-aaef8e4e/?utm_source=github) |
@@ -407,6 +410,7 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Zoetis | IT/OT Security Intern | Kalamazoo | Nov 9 | [View](https://roleweek.com/job/it-ot-security-intern-zoetis-elsewhere-b6019edb/?utm_source=github) |
 | Lockheed Martin | Software Development Intern - Summer 2027 | Bethesda, Rockville | Nov 9 | [View](https://roleweek.com/job/software-development-intern-summer-2027-lockheed-martin-washington-dc-7e2080f0/?utm_source=github) |
 | Lockheed Martin | Software Engineer (AMMM) - Intern | Marietta, GA | Nov 9 | [View](https://roleweek.com/job/software-engineer-ammm-intern-lockheed-martin-atlanta-8656de9c/?utm_source=github) |
+| Lockheed Martin | Software Engineer - Intern | Uniondale, Fort Worth +2 | Nov 9 | [View](https://roleweek.com/job/software-engineer-intern-lockheed-martin-washington-dc-5e14099c/?utm_source=github) |
 | Lockheed Martin | Software Engineering - Intern | Uniondale, NY | Nov 9 | [View](https://roleweek.com/job/software-engineering-intern-lockheed-martin-new-york-ef824e04/?utm_source=github) |
 | Lockheed Martin | IT Infrastructure Intern - Summer 2027 | King of Prussia, PA | Nov 9 | [View](https://roleweek.com/job/it-infrastructure-intern-summer-2027-lockheed-martin-philadelphia-a5408af8/?utm_source=github) |
 | Samsung | ePro AI Business & Data Analyst Intern | Plano, TX | Nov 8 | [View](https://roleweek.com/job/epro-ai-business-and-data-analyst-intern-samsung-dallas-fort-worth-0926d24c/?utm_source=github) |
@@ -445,39 +449,31 @@ Each **View** link opens the role's page on RoleWeek, which has the employer's A
 | Qualcomm | FY27 Intern - Software Validation Engineering Internship - Canada (16 months) | Markham, ON | Nov 6 | [View](https://roleweek.com/job/fy27-intern-software-validation-engineering-internship-qualcomm-toronto-87c72cfc/?utm_source=github) |
 | Match Group | iOS Engineer Intern | Palo Alto, Los Angeles | Nov 6 | [View](https://roleweek.com/job/ios-engineer-intern-match-group-san-francisco-bay-area-5df92e89/?utm_source=github) |
 | L3Harris Technologies | Intern, Data Architect | Huntsville, AL | Nov 6 | [View](https://roleweek.com/job/intern-data-architect-l3harris-technologies-huntsville-188eef88/?utm_source=github) |
-| Allied Consultants | Power Platform Admin/Developer Intern | Austin, TX | Nov 6 | [View](https://roleweek.com/job/power-platform-admin-developer-intern-allied-consultants-austin-086aebbc/?utm_source=github) |
 | CrowdStrike | Professional Services Pathfinder Intern - Red Team - Summer 2027 | Arlington, VA | Nov 6 | [View](https://roleweek.com/job/professional-services-pathfinder-intern-red-team-summer-2027-crowdstrike-washington-dc-15c18284/?utm_source=github) |
 | Samsung | Samsung Care AI Data Analytic Intern | Plano, TX | Nov 6 | [View](https://roleweek.com/job/samsung-care-ai-data-analytic-intern-samsung-dallas-fort-worth-a819eeb9/?utm_source=github) |
+| Corning | Science & Technology - HPC DevOps Engineer Intern - Summer 2027 | NY | Nov 6 | [View](https://roleweek.com/job/science-and-technology-hpc-devops-engineer-intern-summer-corning-elsewhere-ecd77e35/?utm_source=github) |
 | Enovation Controls | Manufacturing Software Engineering Intern - Summer 2027 | OK | Nov 6 | [View](https://roleweek.com/job/manufacturing-software-engineering-intern-summer-2027-enovation-controls-elsewhere-3c7efd21/?utm_source=github) |
 | The New York Times | Frontend Engineering Intern | New York, NY | Nov 6 | [View](https://roleweek.com/job/frontend-engineering-intern-the-new-york-times-new-york-1c08b4e2/?utm_source=github) |
-| Corning | Science & Technology - HPC DevOps Engineer Intern - Summer 2027 | NY | Nov 6 | [View](https://roleweek.com/job/science-and-technology-hpc-devops-engineer-intern-summer-corning-elsewhere-ecd77e35/?utm_source=github) |
 | Varda Space Industries | Site Reliability Internship - Summer 2027 | El Segundo, CA | Nov 6 | [View](https://roleweek.com/job/site-reliability-internship-summer-2027-varda-space-industries-los-angeles-b195134e/?utm_source=github) |
 | Globus Medical | Software COOP | Methuen, MA | Nov 6 | [View](https://roleweek.com/job/software-coop-globus-medical-boston-282cdd69/?utm_source=github) |
-| Match Group | Machine Learning Engineer Intern | Palo Alto, CA | Nov 6 | [View](https://roleweek.com/job/machine-learning-engineer-intern-match-group-san-francisco-bay-area-89c743e8/?utm_source=github) |
 | DataRobot | Software Design Engineer Intern | Seattle, San Francisco +1 (remote) | Nov 6 | [View](https://roleweek.com/job/software-design-engineer-intern-datarobot-seattle-459d06da/?utm_source=github) |
-| Lockheed Martin | Software Developer Intern | Boulder, CO | Nov 6 | [View](https://roleweek.com/job/software-developer-intern-lockheed-martin-denver-boulder-3a9621e8/?utm_source=github) |
+| Match Group | Machine Learning Engineer Intern | Palo Alto, CA | Nov 6 | [View](https://roleweek.com/job/machine-learning-engineer-intern-match-group-san-francisco-bay-area-89c743e8/?utm_source=github) |
 | Llbean | Software Developer Intern (Summer 2027) | Freeport, ME | Nov 6 | [View](https://roleweek.com/job/software-developer-intern-summer-2027-llbean-elsewhere-0234dc67/?utm_source=github) |
 | CACI | Software Engineering Co-op - Spring 2027 | King of Prussia, PA | Nov 6 | [View](https://roleweek.com/job/software-engineering-co-op-spring-2027-caci-philadelphia-5ab335bb/?utm_source=github) |
 | SPX | Software Engineering Generative AI Intern | Elk Grove Village, IL | Nov 6 | [View](https://roleweek.com/job/software-engineering-generative-ai-intern-spx-chicago-ae0a16d6/?utm_source=github) |
 | Brave | Software Engineering Intern - Waterloo University - Winter Session | Canada | Nov 6 | [View](https://roleweek.com/job/software-engineering-intern-waterloo-university-winter-brave-elsewhere-27754268/?utm_source=github) |
-| The New York Times | Full-Stack Engineering Intern | New York, NY | Nov 6 | [View](https://roleweek.com/job/full-stack-engineering-intern-the-new-york-times-new-york-dbc36f8b/?utm_source=github) |
 | KLA | Software Intern | Milpitas, CA | Nov 6 | [View](https://roleweek.com/job/software-intern-kla-san-francisco-bay-area-b7558e4c/?utm_source=github) |
+| The New York Times | Full-Stack Engineering Intern | New York, NY | Nov 6 | [View](https://roleweek.com/job/full-stack-engineering-intern-the-new-york-times-new-york-dbc36f8b/?utm_source=github) |
 | SAS | Summer 2027 - Data Scientist Intern (Master's level) | Cary, NC | Nov 6 | [View](https://roleweek.com/job/summer-2027-data-scientist-intern-sas-raleigh-durham-3e65e275/?utm_source=github) |
 | Federal Reserve | 2027 Information Technology Internship | St. Louis, MO | Nov 6 | [View](https://roleweek.com/job/2027-information-technology-internship-federal-reserve-st-louis-84d18cce/?utm_source=github) |
 | Morgan 6 | Data Analyst / Data Scientist Intern | Tampa, FL (remote) | Nov 6 | [View](https://roleweek.com/job/data-analyst-data-scientist-intern-morgan-6-tampa-7f3f0dfa/?utm_source=github) |
 | Nortek | IT Intern | Hartford, WI | Nov 6 | [View](https://roleweek.com/job/it-intern-nortek-elsewhere-2191ee44/?utm_source=github) |
 | Cintas | IT Intern - SAP BASIS | Mason, OH | Nov 6 | [View](https://roleweek.com/job/it-intern-sap-basis-cintas-elsewhere-bbf6c52b/?utm_source=github) |
+| Lockheed Martin | Software Developer Intern | Boulder, CO | Nov 6 | [View](https://roleweek.com/job/software-developer-intern-lockheed-martin-denver-boulder-3a9621e8/?utm_source=github) |
 | Llbean | Quality Assurance Analyst Intern (Summer 2027) | Freeport, ME | Nov 6 | [View](https://roleweek.com/job/quality-assurance-analyst-intern-summer-2027-llbean-elsewhere-e20f5885/?utm_source=github) |
 | BMO | Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months | Toronto, ON | Nov 6 | [View](https://roleweek.com/job/quantitative-analyst-summer-2027-co-op-internship-4-months-bmo-toronto-e1c716be/?utm_source=github) |
 | The New York Times | iOS Engineering Intern | New York, NY | Nov 6 | [View](https://roleweek.com/job/ios-engineering-intern-the-new-york-times-new-york-617e0b20/?utm_source=github) |
 | Etched | Infrastructure Engineering & Projects Intern | San Jose | Nov 5 | [View](https://roleweek.com/job/infrastructure-engineering-and-projects-intern-etched-san-francisco-bay-area-97b427f8/?utm_source=github) |
-| Nooks | Software Engineer, Intern | San Francisco | Nov 5 | [View](https://roleweek.com/job/software-engineer-intern-nooks-san-francisco-bay-area-a16804e5/?utm_source=github) |
-| SOTI | Quality Assurance Specialist Intern - Android (May 2027 - 12 Months) | Mississauga, Canada | Nov 5 | [View](https://roleweek.com/job/quality-assurance-specialist-intern-android-may-2027-12-soti-toronto-d9f2b51b/?utm_source=github) |
-| Shield AI | June 2027 Co-Op - Software Engineer Intern | Seattle, Washington +2 | Nov 5 | [View](https://roleweek.com/job/june-2027-co-op-software-engineer-intern-shield-ai-seattle-569c174b/?utm_source=github) |
-| Palantir | Software Engineer, Internship - Sovereign AI Systems | New York, NY | Nov 5 | [View](https://roleweek.com/job/software-engineer-internship-sovereign-ai-systems-palantir-new-york-041c362b/?utm_source=github) |
-| Nelnet | Platform Engineer Intern (8 month term) | Mississauga | Nov 5 | [View](https://roleweek.com/job/platform-engineer-intern-8-month-term-nelnet-toronto-35fee886/?utm_source=github) |
-| Hearst | Software Engineering Intern | Carmel, IN | Nov 5 | [View](https://roleweek.com/job/software-engineering-intern-hearst-elsewhere-7d5b8a27/?utm_source=github) |
-| SOTI | Software Developer Intern - Android (May 2027 - 12 Months) | Mississauga, Canada | Nov 5 | [View](https://roleweek.com/job/software-developer-intern-android-may-2027-12-months-soti-toronto-22faf1ec/?utm_source=github) |
 
 ---
 
